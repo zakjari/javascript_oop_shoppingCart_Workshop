@@ -120,7 +120,7 @@ class ShoppingCart {
         document.getElementById('total-items').textContent = totalItems; 
         document.getElementById('total-price').textContent = totalPrice;
     }
-
+}
 
 // Liste des produits (à remplir)
 const products = [
